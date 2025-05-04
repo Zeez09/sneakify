@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&family=Red+Hat+Text:ital,wght@0,300..700;1,300..700&display=swap');
+
+@import 'tailwindcss';
+
+
+
+
+
+.red-hat-text-400 {
+    font-family: "Red Hat Text", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.red-hat-text-700 {
+    font-family: "Red Hat Text", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
